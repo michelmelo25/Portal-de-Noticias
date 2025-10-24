@@ -37,3 +37,5 @@ portal-de-noticias/
 ```
 
 ## Screenshots
+
+![Screenshot Home Page](assets/screenshot.png)
